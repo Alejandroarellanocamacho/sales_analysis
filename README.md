@@ -19,15 +19,15 @@
 
 instala dependencias:
 
-´´´
+```
 pip install pandas openpyxl
-´´´
+```
 
 **Ejecución**
 
-´´´´
+```
 python src/sales_analysis.py
-´´´
+```
 
 Opcienes:
 
